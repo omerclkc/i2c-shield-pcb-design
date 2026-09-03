@@ -1228,6 +1228,14 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=VS|NetColor=$006E6EFF
+Net2=NetName=PB9/SDA|NetColor=clYellow
+Net3=NetName=+3V3|NetColor=$006E6EFF
+Net4=NetName=NRST|NetColor=$00FFFF6E
+Net5=NetName=PB8/SCL|NetColor=$00FF6EFF
+Net6=NetName=GND|NetColor=$0000BE00
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
